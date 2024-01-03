@@ -1,5 +1,4 @@
 # PGlifeWebsite
-Visit my website at http://146.190.9.56/
 
 A Website using HTML, CSS, JavaScript , PHP & SQL where one can find the perfect accomodation.
 Website created from a dummy data of different PG's of certain cities.
